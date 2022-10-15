@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:study_06_10_22/constants.dart';
-import 'package:study_06_10_22/models/Product.dart';
+import 'package:study_06_10_22/models/product.dart';
 import 'package:study_06_10_22/screens/details/components/product_title_with_image.dart';
 
 import 'color_and_size.dart';

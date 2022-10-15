@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:study_06_10_22/models/Product.dart';
+import 'package:study_06_10_22/models/product.dart';
 import '../../../constants.dart';
 
 class Description extends StatelessWidget{
